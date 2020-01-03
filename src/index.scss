@@ -1,0 +1,14 @@
+@import "~bootstrap/scss/bootstrap";
+
+a {
+  color: rgba(238, 238, 238, 0.5);
+}
+
+.note {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  strong {
+    margin-right: 1rem;
+  }
+}
